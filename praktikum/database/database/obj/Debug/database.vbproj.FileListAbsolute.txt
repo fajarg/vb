@@ -1,0 +1,13 @@
+E:\kuliah\smt 4\vb\praktikum\database\database\bin\Debug\database.exe.config
+E:\kuliah\smt 4\vb\praktikum\database\database\bin\Debug\Database1.mdb
+E:\kuliah\smt 4\vb\praktikum\database\database\bin\Debug\database.exe
+E:\kuliah\smt 4\vb\praktikum\database\database\bin\Debug\database.pdb
+E:\kuliah\smt 4\vb\praktikum\database\database\bin\Debug\database.xml
+E:\kuliah\smt 4\vb\praktikum\database\database\obj\Debug\database.Form1.resources
+E:\kuliah\smt 4\vb\praktikum\database\database\obj\Debug\database.Resources.resources
+E:\kuliah\smt 4\vb\praktikum\database\database\obj\Debug\database.vbproj.GenerateResource.Cache
+E:\kuliah\smt 4\vb\praktikum\database\database\obj\Debug\database.exe
+E:\kuliah\smt 4\vb\praktikum\database\database\obj\Debug\database.xml
+E:\kuliah\smt 4\vb\praktikum\database\database\obj\Debug\database.pdb
+E:\kuliah\smt 4\vb\praktikum\database\database\obj\Debug\database.Form2.resources
+E:\kuliah\smt 4\vb\praktikum\database\database\obj\Debug\database.Form3.resources

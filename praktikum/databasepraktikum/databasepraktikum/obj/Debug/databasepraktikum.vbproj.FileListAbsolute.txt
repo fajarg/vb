@@ -1,0 +1,4 @@
+E:\kuliah\smt 4\vb\praktikum\databasepraktikum\databasepraktikum\bin\Debug\databasepraktikum.exe.config
+E:\kuliah\smt 4\vb\praktikum\databasepraktikum\databasepraktikum\obj\Debug\databasepraktikum.Form1.resources
+E:\kuliah\smt 4\vb\praktikum\databasepraktikum\databasepraktikum\obj\Debug\databasepraktikum.Resources.resources
+E:\kuliah\smt 4\vb\praktikum\databasepraktikum\databasepraktikum\obj\Debug\databasepraktikum.vbproj.GenerateResource.Cache

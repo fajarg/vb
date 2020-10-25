@@ -1,0 +1,11 @@
+E:\kuliah\smt 4\vb\database vb\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+E:\kuliah\smt 4\vb\database vb\WindowsApplication2\WindowsApplication2\bin\Debug\11.mdb
+E:\kuliah\smt 4\vb\database vb\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+E:\kuliah\smt 4\vb\database vb\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+E:\kuliah\smt 4\vb\database vb\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+E:\kuliah\smt 4\vb\database vb\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+E:\kuliah\smt 4\vb\database vb\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+E:\kuliah\smt 4\vb\database vb\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+E:\kuliah\smt 4\vb\database vb\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+E:\kuliah\smt 4\vb\database vb\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+E:\kuliah\smt 4\vb\database vb\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb

@@ -1,0 +1,11 @@
+E:\kuliah\smt 4\vb\pertemuan 5\garis koordinat\garis koordinat\bin\Debug\garis koordinat.exe.config
+E:\kuliah\smt 4\vb\pertemuan 5\garis koordinat\garis koordinat\bin\Debug\garis koordinat.exe
+E:\kuliah\smt 4\vb\pertemuan 5\garis koordinat\garis koordinat\bin\Debug\garis koordinat.pdb
+E:\kuliah\smt 4\vb\pertemuan 5\garis koordinat\garis koordinat\bin\Debug\garis koordinat.xml
+E:\kuliah\smt 4\vb\pertemuan 5\garis koordinat\garis koordinat\obj\Debug\garis_koordinat.Form1.resources
+E:\kuliah\smt 4\vb\pertemuan 5\garis koordinat\garis koordinat\obj\Debug\garis_koordinat.Resources.resources
+E:\kuliah\smt 4\vb\pertemuan 5\garis koordinat\garis koordinat\obj\Debug\garis koordinat.vbproj.GenerateResource.Cache
+E:\kuliah\smt 4\vb\pertemuan 5\garis koordinat\garis koordinat\obj\Debug\garis koordinat.exe
+E:\kuliah\smt 4\vb\pertemuan 5\garis koordinat\garis koordinat\obj\Debug\garis koordinat.xml
+E:\kuliah\smt 4\vb\pertemuan 5\garis koordinat\garis koordinat\obj\Debug\garis koordinat.pdb
+E:\kuliah\smt 4\vb\pertemuan 5\garis koordinat\garis koordinat\obj\Debug\garis koordinat.vbprojResolveAssemblyReference.cache

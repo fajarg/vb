@@ -1,0 +1,10 @@
+E:\kuliah\smt 4\vb\editor teks\editor teks\bin\Debug\editor teks.exe.config
+E:\kuliah\smt 4\vb\editor teks\editor teks\bin\Debug\editor teks.exe
+E:\kuliah\smt 4\vb\editor teks\editor teks\bin\Debug\editor teks.pdb
+E:\kuliah\smt 4\vb\editor teks\editor teks\bin\Debug\editor teks.xml
+E:\kuliah\smt 4\vb\editor teks\editor teks\obj\Debug\editor_teks.Form1.resources
+E:\kuliah\smt 4\vb\editor teks\editor teks\obj\Debug\editor_teks.Resources.resources
+E:\kuliah\smt 4\vb\editor teks\editor teks\obj\Debug\editor teks.vbproj.GenerateResource.Cache
+E:\kuliah\smt 4\vb\editor teks\editor teks\obj\Debug\editor teks.exe
+E:\kuliah\smt 4\vb\editor teks\editor teks\obj\Debug\editor teks.xml
+E:\kuliah\smt 4\vb\editor teks\editor teks\obj\Debug\editor teks.pdb

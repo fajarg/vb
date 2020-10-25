@@ -1,0 +1,10 @@
+E:\kuliah\smt 4\vb\coba\coba\bin\Debug\coba.exe.config
+E:\kuliah\smt 4\vb\coba\coba\bin\Debug\coba.exe
+E:\kuliah\smt 4\vb\coba\coba\bin\Debug\coba.pdb
+E:\kuliah\smt 4\vb\coba\coba\bin\Debug\coba.xml
+E:\kuliah\smt 4\vb\coba\coba\obj\Debug\coba.Form1.resources
+E:\kuliah\smt 4\vb\coba\coba\obj\Debug\coba.Resources.resources
+E:\kuliah\smt 4\vb\coba\coba\obj\Debug\coba.vbproj.GenerateResource.Cache
+E:\kuliah\smt 4\vb\coba\coba\obj\Debug\coba.exe
+E:\kuliah\smt 4\vb\coba\coba\obj\Debug\coba.xml
+E:\kuliah\smt 4\vb\coba\coba\obj\Debug\coba.pdb

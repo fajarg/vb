@@ -1,0 +1,11 @@
+E:\kuliah\smt 4\vb\database vb\datbase\datbase\bin\Debug\datbase.exe.config
+E:\kuliah\smt 4\vb\database vb\datbase\datbase\bin\Debug\11.mdb
+E:\kuliah\smt 4\vb\database vb\datbase\datbase\bin\Debug\datbase.exe
+E:\kuliah\smt 4\vb\database vb\datbase\datbase\bin\Debug\datbase.pdb
+E:\kuliah\smt 4\vb\database vb\datbase\datbase\bin\Debug\datbase.xml
+E:\kuliah\smt 4\vb\database vb\datbase\datbase\obj\Debug\datbase.Form1.resources
+E:\kuliah\smt 4\vb\database vb\datbase\datbase\obj\Debug\datbase.Resources.resources
+E:\kuliah\smt 4\vb\database vb\datbase\datbase\obj\Debug\datbase.vbproj.GenerateResource.Cache
+E:\kuliah\smt 4\vb\database vb\datbase\datbase\obj\Debug\datbase.exe
+E:\kuliah\smt 4\vb\database vb\datbase\datbase\obj\Debug\datbase.xml
+E:\kuliah\smt 4\vb\database vb\datbase\datbase\obj\Debug\datbase.pdb

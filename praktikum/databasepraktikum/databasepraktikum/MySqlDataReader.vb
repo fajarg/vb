@@ -1,0 +1,4 @@
+﻿
+Class MySqlDataReader
+
+End Class

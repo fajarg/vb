@@ -1,0 +1,10 @@
+E:\kuliah\smt 4\vb\pertemuan 3\statistika pemain\statistika pemain\bin\Debug\statistika pemain.exe.config
+E:\kuliah\smt 4\vb\pertemuan 3\statistika pemain\statistika pemain\bin\Debug\statistika pemain.exe
+E:\kuliah\smt 4\vb\pertemuan 3\statistika pemain\statistika pemain\bin\Debug\statistika pemain.pdb
+E:\kuliah\smt 4\vb\pertemuan 3\statistika pemain\statistika pemain\bin\Debug\statistika pemain.xml
+E:\kuliah\smt 4\vb\pertemuan 3\statistika pemain\statistika pemain\obj\Debug\statistika_pemain.Form1.resources
+E:\kuliah\smt 4\vb\pertemuan 3\statistika pemain\statistika pemain\obj\Debug\statistika_pemain.Resources.resources
+E:\kuliah\smt 4\vb\pertemuan 3\statistika pemain\statistika pemain\obj\Debug\statistika pemain.vbproj.GenerateResource.Cache
+E:\kuliah\smt 4\vb\pertemuan 3\statistika pemain\statistika pemain\obj\Debug\statistika pemain.exe
+E:\kuliah\smt 4\vb\pertemuan 3\statistika pemain\statistika pemain\obj\Debug\statistika pemain.xml
+E:\kuliah\smt 4\vb\pertemuan 3\statistika pemain\statistika pemain\obj\Debug\statistika pemain.pdb

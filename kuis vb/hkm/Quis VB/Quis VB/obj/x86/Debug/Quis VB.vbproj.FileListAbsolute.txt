@@ -1,0 +1,21 @@
+C:\Users\hikam\AppData\Local\Temporary Projects\Quis VB\bin\Debug\Quis VB.exe
+C:\Users\hikam\AppData\Local\Temporary Projects\Quis VB\bin\Debug\Quis VB.pdb
+C:\Users\hikam\AppData\Local\Temporary Projects\Quis VB\bin\Debug\Quis VB.xml
+C:\Users\hikam\AppData\Local\Temporary Projects\Quis VB\obj\x86\Debug\Quis_VB.Form1.resources
+C:\Users\hikam\AppData\Local\Temporary Projects\Quis VB\obj\x86\Debug\Quis_VB.Resources.resources
+C:\Users\hikam\AppData\Local\Temporary Projects\Quis VB\obj\x86\Debug\Quis VB.vbproj.GenerateResource.Cache
+C:\Users\hikam\AppData\Local\Temporary Projects\Quis VB\obj\x86\Debug\Quis VB.exe
+C:\Users\hikam\AppData\Local\Temporary Projects\Quis VB\obj\x86\Debug\Quis VB.xml
+C:\Users\hikam\AppData\Local\Temporary Projects\Quis VB\obj\x86\Debug\Quis VB.pdb
+C:\Users\fergi\Downloads\Quis VB\Quis VB\obj\x86\Debug\Quis VB.exe
+C:\Users\fergi\Downloads\Quis VB\Quis VB\obj\x86\Debug\Quis VB.xml
+C:\Users\fergi\Downloads\Quis VB\Quis VB\obj\x86\Debug\Quis VB.pdb
+C:\Users\fergi\Downloads\Quis VB\Quis VB\bin\Debug\Quis VB.exe
+C:\Users\fergi\Downloads\Quis VB\Quis VB\bin\Debug\Quis VB.pdb
+C:\Users\fergi\Downloads\Quis VB\Quis VB\bin\Debug\Quis VB.xml
+C:\Users\fergi\Downloads\Quis VB\Quis VB\obj\x86\Debug\Quis_VB.Form1.resources
+C:\Users\fergi\Downloads\Quis VB\Quis VB\obj\x86\Debug\Quis_VB.Resources.resources
+C:\Users\fergi\Downloads\Quis VB\Quis VB\obj\x86\Debug\Quis VB.vbproj.GenerateResource.Cache
+E:\kuliah\smt 4\vb\kuis vb\hkm\Quis VB\Quis VB\obj\x86\Debug\Quis VB.exe
+E:\kuliah\smt 4\vb\kuis vb\hkm\Quis VB\Quis VB\obj\x86\Debug\Quis VB.xml
+E:\kuliah\smt 4\vb\kuis vb\hkm\Quis VB\Quis VB\obj\x86\Debug\Quis VB.pdb

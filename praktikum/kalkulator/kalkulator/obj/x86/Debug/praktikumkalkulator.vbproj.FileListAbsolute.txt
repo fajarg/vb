@@ -1,0 +1,36 @@
+E:\praktikumkalkulator\praktikumkalkulator\bin\Debug\praktikumkalkulator.exe
+E:\praktikumkalkulator\praktikumkalkulator\bin\Debug\praktikumkalkulator.pdb
+E:\praktikumkalkulator\praktikumkalkulator\bin\Debug\praktikumkalkulator.xml
+E:\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\praktikumkalkulator.vbprojAssemblyReference.cache
+E:\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\Kalkulator1.Form1.resources
+E:\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\Kalkulator1.Form2.resources
+E:\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\Kalkulator1.Form3.resources
+E:\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\Kalkulator1.Resources.resources
+E:\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\praktikumkalkulator.vbproj.GenerateResource.cache
+E:\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\praktikumkalkulator.vbproj.CoreCompileInputs.cache
+E:\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\praktikumkalkulator.exe
+E:\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\praktikumkalkulator.xml
+E:\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\praktikumkalkulator.pdb
+D:\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\praktikumkalkulator.exe
+D:\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\praktikumkalkulator.xml
+D:\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\praktikumkalkulator.pdb
+D:\praktikumkalkulator\praktikumkalkulator\bin\Debug\praktikumkalkulator.exe
+D:\praktikumkalkulator\praktikumkalkulator\bin\Debug\praktikumkalkulator.pdb
+D:\praktikumkalkulator\praktikumkalkulator\bin\Debug\praktikumkalkulator.xml
+D:\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\Kalkulator1.Form1.resources
+D:\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\Kalkulator1.Form2.resources
+D:\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\Kalkulator1.Form3.resources
+D:\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\Kalkulator1.Resources.resources
+D:\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\praktikumkalkulator.vbproj.GenerateResource.Cache
+E:\kuliah\smt 4\vb\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\praktikumkalkulator.exe
+E:\kuliah\smt 4\vb\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\praktikumkalkulator.xml
+E:\kuliah\smt 4\vb\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\praktikumkalkulator.pdb
+E:\kuliah\smt 4\vb\praktikumkalkulator\praktikumkalkulator\bin\Debug\praktikumkalkulator.exe
+E:\kuliah\smt 4\vb\praktikumkalkulator\praktikumkalkulator\bin\Debug\praktikumkalkulator.pdb
+E:\kuliah\smt 4\vb\praktikumkalkulator\praktikumkalkulator\bin\Debug\praktikumkalkulator.xml
+E:\kuliah\smt 4\vb\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\Kalkulator1.Form1.resources
+E:\kuliah\smt 4\vb\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\Kalkulator1.Form2.resources
+E:\kuliah\smt 4\vb\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\Kalkulator1.Form3.resources
+E:\kuliah\smt 4\vb\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\Kalkulator1.LoginForm1.resources
+E:\kuliah\smt 4\vb\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\Kalkulator1.Resources.resources
+E:\kuliah\smt 4\vb\praktikumkalkulator\praktikumkalkulator\obj\x86\Debug\praktikumkalkulator.vbproj.GenerateResource.Cache

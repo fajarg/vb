@@ -1,0 +1,11 @@
+E:\kuliah\smt 4\vb\laporan\gm\gm\bin\Debug\gm.exe.config
+E:\kuliah\smt 4\vb\laporan\gm\gm\bin\Debug\gm.exe
+E:\kuliah\smt 4\vb\laporan\gm\gm\bin\Debug\gm.pdb
+E:\kuliah\smt 4\vb\laporan\gm\gm\bin\Debug\gm.xml
+E:\kuliah\smt 4\vb\laporan\gm\gm\obj\Debug\gm.Form1.resources
+E:\kuliah\smt 4\vb\laporan\gm\gm\obj\Debug\gm.Form2.resources
+E:\kuliah\smt 4\vb\laporan\gm\gm\obj\Debug\gm.Resources.resources
+E:\kuliah\smt 4\vb\laporan\gm\gm\obj\Debug\gm.vbproj.GenerateResource.Cache
+E:\kuliah\smt 4\vb\laporan\gm\gm\obj\Debug\gm.exe
+E:\kuliah\smt 4\vb\laporan\gm\gm\obj\Debug\gm.xml
+E:\kuliah\smt 4\vb\laporan\gm\gm\obj\Debug\gm.pdb

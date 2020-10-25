@@ -1,0 +1,40 @@
+E:\kuliah\smt 4\vb\kuis\kuis\kuis\bin\Debug\kuis.exe.config
+E:\kuliah\smt 4\vb\kuis\kuis\kuis\bin\Debug\kuis.exe
+E:\kuliah\smt 4\vb\kuis\kuis\kuis\bin\Debug\kuis.pdb
+E:\kuliah\smt 4\vb\kuis\kuis\kuis\bin\Debug\kuis.xml
+E:\kuliah\smt 4\vb\kuis\kuis\kuis\obj\Debug\kuis.Form1.resources
+E:\kuliah\smt 4\vb\kuis\kuis\kuis\obj\Debug\kuis.Resources.resources
+E:\kuliah\smt 4\vb\kuis\kuis\kuis\obj\Debug\kuis.vbproj.GenerateResource.Cache
+E:\kuliah\smt 4\vb\kuis\kuis\kuis\obj\Debug\kuis.exe
+E:\kuliah\smt 4\vb\kuis\kuis\kuis\obj\Debug\kuis.xml
+E:\kuliah\smt 4\vb\kuis\kuis\kuis\obj\Debug\kuis.pdb
+E:\kuliah\smt 4\vb\kuis vb\kuis\kuis\bin\Debug\kuis.exe.config
+E:\kuliah\smt 4\vb\kuis vb\kuis\kuis\obj\Debug\kuis.exe
+E:\kuliah\smt 4\vb\kuis vb\kuis\kuis\obj\Debug\kuis.xml
+E:\kuliah\smt 4\vb\kuis vb\kuis\kuis\obj\Debug\kuis.pdb
+E:\kuliah\smt 4\vb\kuis vb\kuis\kuis\bin\Debug\kuis.exe
+E:\kuliah\smt 4\vb\kuis vb\kuis\kuis\bin\Debug\kuis.pdb
+E:\kuliah\smt 4\vb\kuis vb\kuis\kuis\bin\Debug\kuis.xml
+E:\kuliah\smt 4\vb\kuis vb\kuis\kuis\obj\Debug\kuis.Form1.resources
+E:\kuliah\smt 4\vb\kuis vb\kuis\kuis\obj\Debug\kuis.Resources.resources
+E:\kuliah\smt 4\vb\kuis vb\kuis\kuis\obj\Debug\kuis.vbproj.GenerateResource.Cache
+E:\kuliah\smt 4\vb\kuis\kuis\bin\Debug\kuis.exe.config
+E:\kuliah\smt 4\vb\kuis\kuis\obj\Debug\kuis.exe
+E:\kuliah\smt 4\vb\kuis\kuis\obj\Debug\kuis.xml
+E:\kuliah\smt 4\vb\kuis\kuis\obj\Debug\kuis.pdb
+E:\kuliah\smt 4\vb\kuis\kuis\bin\Debug\kuis.exe
+E:\kuliah\smt 4\vb\kuis\kuis\bin\Debug\kuis.pdb
+E:\kuliah\smt 4\vb\kuis\kuis\bin\Debug\kuis.xml
+E:\kuliah\smt 4\vb\kuis\kuis\obj\Debug\kuis.Form1.resources
+E:\kuliah\smt 4\vb\kuis\kuis\obj\Debug\kuis.Resources.resources
+E:\kuliah\smt 4\vb\kuis\kuis\obj\Debug\kuis.vbproj.GenerateResource.Cache
+E:\kuliah\smt 4\vb\kuis looping\kuis\kuis\bin\Debug\kuis.exe.config
+E:\kuliah\smt 4\vb\kuis looping\kuis\kuis\obj\Debug\kuis.exe
+E:\kuliah\smt 4\vb\kuis looping\kuis\kuis\obj\Debug\kuis.xml
+E:\kuliah\smt 4\vb\kuis looping\kuis\kuis\obj\Debug\kuis.pdb
+E:\kuliah\smt 4\vb\kuis looping\kuis\kuis\bin\Debug\kuis.exe
+E:\kuliah\smt 4\vb\kuis looping\kuis\kuis\bin\Debug\kuis.pdb
+E:\kuliah\smt 4\vb\kuis looping\kuis\kuis\bin\Debug\kuis.xml
+E:\kuliah\smt 4\vb\kuis looping\kuis\kuis\obj\Debug\kuis.Form1.resources
+E:\kuliah\smt 4\vb\kuis looping\kuis\kuis\obj\Debug\kuis.Resources.resources
+E:\kuliah\smt 4\vb\kuis looping\kuis\kuis\obj\Debug\kuis.vbproj.GenerateResource.Cache

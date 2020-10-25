@@ -1,0 +1,4 @@
+﻿
+Class MySqlCommand
+
+End Class
